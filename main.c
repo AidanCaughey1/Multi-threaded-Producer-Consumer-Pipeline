@@ -1,3 +1,6 @@
+Assignment 5
+Author: Aidan Caughey
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
